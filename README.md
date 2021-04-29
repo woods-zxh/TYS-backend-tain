@@ -1,14 +1,15 @@
 # TYS-backend-tain
 暂定技术栈为spring boot + mysql(暂定）
 
-#理论知识学习（按顺序）
-1.复习一下java基础知识
-2.理解前后端分离开发和不分离开发的区别
-3.理解json在前后端分离开发中的作用
-4.理解Tomcat/SpringMVC/Spring/SpringBoot/Servlet的关系
-5.理解SpringBoot，重点理解一个请求从接收到返回会经过哪些流程，以及SpringBoot的注解
-6.理解mevan在java项目中的作用以及如何使用
-6.复习关系型数据库sql语法，重点理解如何设计一个关系
+# 理论知识学习（按顺序）
+
+1. 复习一下java基础知识
+2. 理解前后端分离开发和不分离开发的区别
+3. 理解json在前后端分离开发中的作用
+4. 理解Tomcat/SpringMVC/Spring/SpringBoot/Servlet的关系
+5. 理解SpringBoot，重点理解一个请求从接收到返回会经过哪些流程，以及SpringBoot的注解
+6. 理解mevan在java项目中的作用以及如何使用
+6. 复习关系型数据库sql语法，重点理解如何设计一个关系
 
 
 
